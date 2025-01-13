@@ -1,0 +1,1 @@
+pyinstaller .\numero_ligne.py --clean --onefile --noconsole -y
