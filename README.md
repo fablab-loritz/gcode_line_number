@@ -8,6 +8,4 @@ Cet outil a été créer car nous avons une CNC qui exige des numéros de lignes
 
 ## Télécharger
 
-Pour télécharger une version pré-compilé :
-
-__à faire__
+Pour télécharger une version pré-compilé : [Releases](https://github.com/fablab-loritz/gcode_line_number/releases)
